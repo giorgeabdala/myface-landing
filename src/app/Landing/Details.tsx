@@ -6,7 +6,7 @@ export default function Details () {
     return (
         <Area className="flex bg-white h-container-g border-t border-zinc-300">
 
-            <div className="flex flex-col justify-between w-full">
+            <div className="flex flex-col justify-between w-full text-rose-gold-bold">
                 <div className="grid grid-cols-2  md:grid-cols-4">
                     <div>
                         <Image src={"/icon/lashIcon.png"} alt={"ícone de cílios"} width={200} height={200} />
