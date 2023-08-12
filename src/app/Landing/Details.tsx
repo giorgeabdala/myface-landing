@@ -4,25 +4,25 @@ import Area from "@/app/components/Area";
 
 export default function Details () {
     return (
-        <Area className="flex bg-white h-container-g border-t border-zinc-300">
+        <Area className="flex bg-white  border-t border-zinc-300">
 
-            <div className="flex flex-col justify-between w-full text-rose-gold-bold">
+            <div className="flex flex-col text-xs justify-between mb-16 w-full text-rose-gold-bold lg:text-xl">
                 <div className="grid grid-cols-2  md:grid-cols-4">
-                    <div>
+                    <div className="flex flex-col justify-center items-center">
                         <Image src={"/icon/lashIcon.png"} alt={"ícone de cílios"} width={200} height={200} />
-                        <h1>OLHOS SEMPRE BONITOS</h1>
+                        <h1>Olhos sempre bonitos</h1>
                     </div>
-                    <div>
+                    <div className="flex flex-col justify-center items-center">
                         <Image src={"/icon/lashIcon.png"} alt={"ícone de cílios"} width={200} height={200} />
-                        <h1>DISPENSE A MAQUIAGEM</h1>
+                        <h1>Dispense a Maquiagem</h1>
                     </div>
-                    <div>
+                    <div className="flex flex-col justify-center items-center">
                         <Image src={"/icon/lashIcon.png"} alt={"ícone de cílios"} width={200} height={200} />
-                        <h1> COLA HIPOALERGÊNICA</h1>
+                        <h1>Cola Hipoalergênica</h1>
                     </div>
-                    <div>
+                    <div className="flex flex-col justify-center items-center">
                         <Image src={"/icon/lashIcon.png"} alt={"ícone de cílios"} width={200} height={200} />
-                        <h1>OLHOS SEMPRE BONITOS</h1>
+                        <h1>Olhos sempre bonitos</h1>
                     </div>
                 </div>
 

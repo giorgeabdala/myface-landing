@@ -5,10 +5,10 @@ import Area from "@/app/components/Area";
 
 export default function Works() {
     return (
-        <Area className="flex bg-container-gray h-container-g  border-zinc-300">
-            <div className="flex flex-col gap-4 ">
+        <Area className="flex bg-container-gray border-zinc-300">
+            <div className="flex flex-col gap-4 md: my-5">
                 <div className="flex flex-col">
-                    <span className="text-8xl opacity-10 text-rose-gold font-menu lg:text-9xl">Olhar Marcante</span>
+                    <span className="text-7xl opacity-10 text-rose-gold font-menu lg:text-9xl">Olhar Marcante</span>
                     <h1 className="text-white font-title text-4xl ">NOSSOS TRABALHOS</h1>
                     <span className="text-text-normal text-xl text-justify my-4 items-center w-full md:w-1/2 ">
                         Se você tem cílios curtos e raros, então a extensão de cílios é o que você precisa. Pode ver o resultado do nosso trabalho na galeria.
