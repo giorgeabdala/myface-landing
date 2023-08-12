@@ -6,7 +6,7 @@ import Area from "@/app/components/Area";
 export default function Works() {
     return (
         <Area className="flex bg-container-gray h-container-g  border-zinc-300">
-            <div className="flex flex-col gap-4 w-full h-full">
+            <div className="flex flex-col gap-4 ">
                 <div className="flex flex-col">
                     <span className="text-8xl opacity-10 text-rose-gold font-menu lg:text-9xl">Olhar Marcante</span>
                     <h1 className="text-white font-title text-4xl ">NOSSOS TRABALHOS</h1>

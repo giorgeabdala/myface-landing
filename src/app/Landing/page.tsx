@@ -7,6 +7,7 @@ import Works from "@/app/Landing/Works";
 import Book from "@/app/Landing/Book";
 import Testimonials from "@/app/Landing/Testimonials";
 import Footer from "@/app/Landing/Footer";
+import Contacts from "@/app/Landing/Contacts";
 
 
 export default function Landing() {
@@ -19,7 +20,7 @@ export default function Landing() {
             <Works />
             <Book />
             <Testimonials />
-            <Footer />
+            <Contacts />
         </Pagina>
     )
 }
