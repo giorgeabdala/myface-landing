@@ -1,12 +1,11 @@
-import image from "../../../../public/foto1.png"
 import Area from "@/app/components/Area";
 
 export default function About () {
     return (
         <Area className="flex bg-container-gray  border-t border-zinc-300">
 
-            <div className="flex items-center my-16">
-                <img className="hidden lg:inline"
+            <div className="flex items-center my-16 md:gap-8">
+                <img className="hidden md:inline"
                     src={"/foto1.png"}
                     alt={"jovem com cílios deslumbrantes"}
                     />

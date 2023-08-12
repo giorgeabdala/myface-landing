@@ -21,6 +21,7 @@ export default function Landing() {
             <Book />
             <Testimonials />
             <Contacts />
+            <Footer />
         </Pagina>
     )
 }

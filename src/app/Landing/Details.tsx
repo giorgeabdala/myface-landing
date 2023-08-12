@@ -1,24 +1,23 @@
-
 import Image from "next/image";
 import Area from "@/app/components/Area";
 
 export default function Details () {
     return (
-        <Area className="flex bg-white  border-t border-zinc-300">
+        <Area className="flex bg-white border-zinc-300">
 
-            <div className="flex flex-col text-xs justify-between mb-16 w-full text-rose-gold-bold lg:text-xl">
-                <div className="grid grid-cols-2  md:grid-cols-4">
+            <div className="flex flex-col text-xs sm:text-xl justify-between mb-16 text-rose-gold-bold">
+                <div className="grid grid-cols-2 md:grid-cols-4">
                     <div className="flex flex-col justify-center items-center">
                         <Image src={"/icon/lashIcon.png"} alt={"ícone de cílios"} width={200} height={200} />
-                        <h1>Olhos sempre bonitos</h1>
+                        <h1>Acordar pronta</h1>
                     </div>
                     <div className="flex flex-col justify-center items-center">
                         <Image src={"/icon/lashIcon.png"} alt={"ícone de cílios"} width={200} height={200} />
-                        <h1>Dispense a Maquiagem</h1>
+                        <h1>Dispensa maquiagem</h1>
                     </div>
                     <div className="flex flex-col justify-center items-center">
                         <Image src={"/icon/lashIcon.png"} alt={"ícone de cílios"} width={200} height={200} />
-                        <h1>Cola Hipoalergênica</h1>
+                        <h1>Olhar sensual</h1>
                     </div>
                     <div className="flex flex-col justify-center items-center">
                         <Image src={"/icon/lashIcon.png"} alt={"ícone de cílios"} width={200} height={200} />
