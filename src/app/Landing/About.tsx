@@ -1,5 +1,5 @@
-import Area from "@/app/components/landing/Area";
 import image from "../../../../public/foto1.png"
+import Area from "@/app/components/Area";
 
 export default function About () {
     return (

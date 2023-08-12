@@ -1,5 +1,5 @@
-import Area from "@/app/components/landing/Area";
-import Menu from "@/app/components/landing/Menu";
+import Menu from "@/app/components/Menu";
+import Area from "@/app/components/Area";
 
 
 export default function Header() {

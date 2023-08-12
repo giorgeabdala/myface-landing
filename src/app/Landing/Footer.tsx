@@ -1,7 +1,7 @@
-import Area from "@/app/components/landing/Area";
-import Menu from "@/app/components/landing/Menu";
-import Maps from "@/app/components/landing/Maps";
-import Contacts from "@/app/components/landing/Contacts";
+import Contacts from "@/app/components/Contacts";
+import Area from "@/app/components/Area";
+import Maps from "@/app/components/Maps";
+
 
 export default function Footer() {
     return (

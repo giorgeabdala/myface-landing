@@ -1,6 +1,7 @@
 'use client'
-import Area from "@/app/components/landing/Area";
+
 import {Button, CloseButton, Group} from "@mantine/core";
+import Area from "@/app/components/Area";
 
 const separator = "......................................................................";
 
@@ -29,6 +30,7 @@ const services = [
 
 export default function Book() {
     return (
+        // eslint-disable-next-line react/jsx-no-undef
         <Area className="flex bg-white h-container">
             <div className="flex flex-col items-center h-full">
                 <div className="flex mt-48 gap-6">

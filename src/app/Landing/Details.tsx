@@ -1,5 +1,6 @@
-import Area from "@/app/components/landing/Area";
+
 import Image from "next/image";
+import Area from "@/app/components/Area";
 
 export default function Details () {
     return (

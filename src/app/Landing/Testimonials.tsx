@@ -1,7 +1,9 @@
 import Image from "next/image";
-import Area from "@/app/components/landing/Area";
+
 import {Quote} from "lucide-react";
-import Coments from "@/app/components/landing/Coments";
+import Area from "@/app/components/Area";
+import Coments from "@/app/components/Coments";
+
 
 
 export default function Testimonials() {
