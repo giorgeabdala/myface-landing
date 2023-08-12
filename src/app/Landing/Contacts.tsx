@@ -60,7 +60,7 @@ export default function Contacts() {
                     </div>
 
                     <div className="overflow-hidden rounded-lg lg:col-span-2 h-96 lg:h-auto">
-                        <iframe width="100%" height="100%" frameBorder="0" title="map" marginHeight="0" marginWidth="0"
+                        <iframe width="100%" height="100%" frameBorder="0" title="map" marginHeight={0} marginWidth={0}
                                 scrolling="no"
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3604.017926357503!2d-49.208047823632015!3d-25.404210531873627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dce5f5d30da5b7%3A0xce15c12d99ac100f!2sR.%20Rio%20Xingu%2C%20625%20-%20Bairro%20Alto%2C%20Curitiba%20-%20PR%2C%2082840-300!5e0!3m2!1spt-BR!2sbr!4v1690573215215!5m2!1spt-BR!2sbr"></iframe>
                     </div>
