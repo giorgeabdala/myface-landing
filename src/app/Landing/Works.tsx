@@ -8,8 +8,8 @@ export default function Works() {
         <Area className="flex bg-container-gray h-container-g  border-zinc-300">
             <div className="flex flex-col gap-4 w-full h-full">
                 <div className="flex flex-col">
-                    <span className="text-9xl opacity-10 text-rose-gold font-menu">Olhar Marcante</span>
-                    <h1 className="text-white font-title text-4xl -mt-10">NOSSOS TRABALHOS</h1>
+                    <span className="text-8xl opacity-10 text-rose-gold font-menu lg:text-9xl">Olhar Marcante</span>
+                    <h1 className="text-white font-title text-4xl ">NOSSOS TRABALHOS</h1>
                     <span className="text-text-normal text-xl text-justify my-4 items-center w-full md:w-1/2 ">
                         Se você tem cílios curtos e raros, então a extensão de cílios é o que você precisa. Pode ver o resultado do nosso trabalho na galeria.
                     </span>

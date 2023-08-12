@@ -3,16 +3,16 @@ import Area from "@/app/components/Area";
 
 export default function About () {
     return (
-        <Area className="flex bg-container-gray h-container border-t border-zinc-300">
+        <Area className="flex bg-container-gray  border-t border-zinc-300">
 
-            <div className="flex items-center w-full h-full">
-                <img className="hidden md:inline"
+            <div className="flex items-center my-16">
+                <img className="hidden lg:inline"
                     src={"/foto1.png"}
                     alt={"jovem com cílios deslumbrantes"}
                     />
 
                 <div className="flex flex-col pl-8 items-center w-full">
-                   <span className="text-rose-gold opacity-20 font-menu text-9xl">
+                   <span className="text-8xl text-rose-gold opacity-20 font-menu md:text-9xl">
                             MyFace
                        </span>
 
