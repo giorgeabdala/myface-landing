@@ -32,7 +32,7 @@ export default function Book() {
     return (
         // eslint-disable-next-line react/jsx-no-undef
         <Area className="flex bg-white ">
-            <div className=" mb-72">
+            <div className=" mb-60">
                 <div className="flex flex-col items-center ">
                     <div className="flex mt-60 gap-6">
                         <h1 className="text-black font-title text-4xl">

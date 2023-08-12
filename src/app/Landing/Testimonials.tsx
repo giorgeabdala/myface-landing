@@ -11,7 +11,7 @@ export default function Testimonials() {
 
         <Area className="bg-container-gray ">
 
-            <div className="my-20">
+            <div className="my-16">
                 <div className ="flex flex-col  justify-center items-center  text-white h-full gap-8">
                     <div className="text-rose-gold opacity-20 font-menu text-9xl">
                         Poderosa
