@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       colors: {
         'rose-gold' : '#C58587', // #CDA0A3 ou #C58587
+        'rose-gold-bold': "#C8868A",
         'container-gray': '#2C2C2C',
         'text-normal': '#B3B3B3', //text-zinc-300 ou B3B3B3
         'icons-rose': '#FBBDA2',
