@@ -23,7 +23,7 @@ export default function Works() {
                     <h1 className="text-white font-title text-4xl ">DESCUBRA A BELEZA DOS SEUS OLHOS</h1>
                     <span className="text-text-normal text-xl text-justify my-4 items-center w-full ">
                         Revele a verdadeira expressão do seu olhar com as nossas extensões de cílios cuidadosamente projetadas.
-                        Transformamos cílios curtos e raros em obras de arte deslumbrantes. Explore a galeria abaixo e encante-se com a magia que podemos criar para realçar a sua beleza única
+                        Transformamos cílios curtos e raros em obras de arte deslumbrantes. Explore a galeria abaixo e encante-se com a magia que podemos criar para realçar a sua beleza única.
                     </span>
                 </div>
 
@@ -36,10 +36,9 @@ export default function Works() {
                     <Image className="rounded" src={work6} alt={"foto de extensão de cílios linda feita pelo studio My Face Designer"} />
                     <Image className="rounded" src={work7} alt={"extensão de cílios perfeita feita pelo studio MyFace em curitiba"} />
                     <Image className="rounded" src={work8} alt={"extensão de cílios volume russo feita pelo studio My Face em curitiba no bairro alto"} />
-
                 </div>
 
-                <div className="flex justify-center mt-5 z-10 w-full lg:justify-between ">
+                <div className="flex justify-center mt-2 z-10 w-full lg:justify-between ">
                     <Image className="rounded" src={work9} alt={"foto de cílios antes e depois"} width={580} height={450} />
                     <Image className="rounded hidden lg:inline" src={work10} alt={"foto de cílios antes e depois"} width={580} height={450} />
                 </div>
