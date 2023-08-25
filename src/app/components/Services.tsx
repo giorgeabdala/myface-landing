@@ -6,24 +6,34 @@ export default function Services() {
 
     const services = [
         {
-            name: "Volume Brasileiro",
+            name: "Volume Camping",
+            price: "160,00",
+            description: "Crie um olhar cativante com nossa técnica Volume Camping. O dobro de cílios de um procedimento normal, garantindo um olhar marcante.",
+        },
+        {
+            name: "Volume Egípcio",
+            price: "130,00",
+            description: "Descubra o encanto do Volume Egípcio. Técnica que usa fios com mais volume, realçando sua beleza natural.",
+        },
+        {
+            name: "Mega Volume",
+            price: "150,00",
+            description: "Transforme seus cílios com o Mega Volume. A técnica mais volumosa, com maior durabilidade para um visual dramaticamente exuberante.",
+        },
+        {
+            name: "Volume Híbrido",
             price: "120,00",
-            description: "1 artificial one is superimposed on each of its eyelashes. Duration 1.5-2 hours",
+            description: "Experimente o Volume Híbrido e obtenha um olhar refinado. Junção de duas técnicas com mais volume e delicadeza.",
         },
         {
             name: "Volume Brasileiro",
             price: "120,00",
-            description: "1 artificial one is superimposed on each of its eyelashes. Duration 1.5-2 hours",
+            description: "A sensualidade brasileira para seus olhos. Usando fios em formato de Y, proporciona mais curvatura e volume ao olhar.",
         },
         {
-            name: "Volume Brasileiro",
-            price: "120,00",
-            description: "1 artificial one is superimposed on each of its eyelashes. Duration 1.5-2 hours",
-        },
-        {
-            name: "Volume Brasileiro",
-            price: "120,00",
-            description: "1 artificial one is superimposed on each of its eyelashes. Duration 1.5-2 hours",
+            name: "Manutenção",
+            price: "90,00",
+            description: "Mantenha seu olhar impecável com nossa manutenção. No máximo 20 dias após o procedimento.",
         },
     ];
 
@@ -41,10 +51,11 @@ export default function Services() {
                     <Procedures name={services[1].name} price={services[1].price} description={services[1].description}/>
                     <Procedures name={services[2].name} price={services[2].price} description={services[2].description}/>
                     <Procedures name={services[3].name} price={services[3].price} description={services[3].description}/>
-
+                    <Procedures name={services[4].name} price={services[4].price} description={services[4].description}/>
+                    <Procedures name={services[5].name} price={services[5].price} description={services[5].description}/>
 
                     <div className="flex justify-center">
-                        <ButtonPrimary text={"Agende Agora!"} />
+                        <ButtonPrimary text={"Agende Agora!"} link={"https://pro.quaddro.co/myfacedesigner"} />
                     </div>
                 </div>
             </div>

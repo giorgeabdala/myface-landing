@@ -20,9 +20,10 @@ export default function Works() {
             <div className="flex flex-col gap-2 md: my-5">
                 <div className="flex flex-col">
                     <span className="text-7xl opacity-10 text-rose-gold font-menu lg:text-9xl">Olhar Marcante</span>
-                    <h1 className="text-white font-title text-4xl ">NOSSOS TRABALHOS</h1>
+                    <h1 className="text-white font-title text-4xl ">DESCUBRA A BELEZA DOS SEUS OLHOS</h1>
                     <span className="text-text-normal text-xl text-justify my-4 items-center w-full ">
-                        Se você tem cílios curtos e raros, então a extensão de cílios é o que você precisa. Veja um pouco dos nossos trabalhos:
+                        Revele a verdadeira expressão do seu olhar com as nossas extensões de cílios cuidadosamente projetadas.
+                        Transformamos cílios curtos e raros em obras de arte deslumbrantes. Explore a galeria abaixo e encante-se com a magia que podemos criar para realçar a sua beleza única
                     </span>
                 </div>
 

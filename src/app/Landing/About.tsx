@@ -19,7 +19,7 @@ export default function About () {
                 QUEM SOMOS
                 </h1>
                     <h2 className="text-text-normal text-justify text-xl mt-4 leading-snug items-center w-full xl:w-3/4">
-                O studio para criar uma imagem luxuosa. Aqui, a expertise no ramo garante que cada mulher seja única e deslumbrante! Trabalhamos com materiais de altíssima qualidade, estabelecendo um novo padrão de beleza!
+                O studio para criar uma imagem luxuosa. Aqui, a expertise no ramo garante que cada mulher seja única e deslumbrante! Trabalhamos com materiais de altíssima qualidade e  um novo padrão de beleza!
                 </h2>
                 </div>
 
