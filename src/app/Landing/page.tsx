@@ -9,13 +9,13 @@ import Testimonials from "@/app/Landing/Testimonials";
 import Footer from "@/app/Landing/Footer";
 import Contacts from "@/app/Landing/Contacts";
 
-
 export default function Landing() {
     return (
         <Pagina >
             <Header />
             <Logo  />
             <About />
+
             <Details />
             <Works />
             <Book />

@@ -1,7 +1,6 @@
 
 import Image from "next/image";
 import Area from "@/app/components/Area";
-
 import work1 from "../../../public/works/work1.jpg";
 import work2 from "../../../public/works/work2.jpg";
 import work3 from "../../../public/works/work3.jpg";
@@ -13,14 +12,13 @@ import work8 from "../../../public/works/work8.jpg";
 import work9 from "../../../public/works/work9.jpg";
 import work10 from "../../../public/works/work10.jpg";
 
-
 export default function Works() {
     return (
         <Area className="flex bg-container-gray border-zinc-300">
             <div className="flex flex-col gap-2 md: my-5">
                 <div className="flex flex-col">
                     <span className="text-7xl opacity-10 text-rose-gold font-menu lg:text-9xl">Olhar Marcante</span>
-                    <h1 className="text-white font-title text-4xl ">DESCUBRA A BELEZA DOS SEUS OLHOS</h1>
+                    <h1 className="text-white font-title text-lg ">DESCUBRA A BELEZA DO SEU OLHAR</h1>
                     <span className="text-text-normal text-xl text-justify my-4 items-center w-full ">
                         Revele a verdadeira expressão do seu olhar com as nossas extensões de cílios cuidadosamente projetadas.
                         Transformamos cílios curtos e raros em obras de arte deslumbrantes. Explore a galeria abaixo e encante-se com a magia que podemos criar para realçar a sua beleza única.

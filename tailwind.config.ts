@@ -12,6 +12,7 @@ module.exports = {
         'container-gray': '#2C2C2C',
         'text-normal': '#B3B3B3', //text-zinc-300 ou B3B3B3
         'icons-rose': '#FBBDA2',
+        'background-secondary': '#191922',
       },
 
       height: {
