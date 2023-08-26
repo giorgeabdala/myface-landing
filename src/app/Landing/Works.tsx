@@ -26,7 +26,7 @@ export default function Works() {
                 </div>
 
                 <div className="grid grid-cols-4 gap-4  z-10">
-                    <Image className="rounded" src={work1} alt={"foto de extensão de volume brasileiro linda feita pelo studio My Face Designer"} />
+                    <Image className="rounded" src={work1} alt={"foto de extensão de volume brasileiro  feita pelo studio My Face Designer"} />
                     <Image className="rounded" src={work2} alt={"extensão de cílios volume brasileiro feita pelo studio MyFace em curitiba"} />
                     <Image className="rounded" src={work3} alt={"extensão de cílios volume russo feita pelo studio My Face em curitiba no bairro alto"} />
                     <Image className="rounded" src={work4} alt={"extensão de cílios  volume russo pelo studio MyFace em curitiba"} />
@@ -37,8 +37,8 @@ export default function Works() {
                 </div>
 
                 <div className="flex justify-center mt-2 z-10 w-full lg:justify-between ">
-                    <Image className="rounded" src={work9} alt={"foto de cílios antes e depois"} width={580} height={450} />
-                    <Image className="rounded hidden lg:inline" src={work10} alt={"foto de cílios antes e depois"} width={580} height={450} />
+                    <Image className="rounded" src={work9} alt={"foto de cílios perfeitos"} width={580} height={450} />
+                    <Image className="rounded hidden lg:inline" src={work10} alt={"foto de cílios perfeitos realizada no bairro alto"} width={580} height={450} />
                 </div>
 
 

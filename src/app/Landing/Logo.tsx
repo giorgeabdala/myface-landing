@@ -8,7 +8,7 @@ export default function Logo() {
 
         <Area className="bg-transparent">
             <div className="flex justify-center">
-                <Image src={"/logos.png"} alt={"logomarca do studio de lash design MyFace"}
+                <Image src={"/logos.png"} alt={"logomarca do studio de lash design MyFace localizado no bairro alto em Curitiba paraná"}
                        width={1000} height={1000} />
 
             </div>

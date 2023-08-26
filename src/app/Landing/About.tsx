@@ -7,7 +7,7 @@ export default function About () {
             <div className="flex items-center my-16 md:gap-8">
                 <img className="hidden lg:inline"
                     src={"/foto1.png"}
-                    alt={"jovem com cílios deslumbrantes"}
+                    alt={"mulher poderosa com extensão de cílios"}
                     />
 
                 <div className="flex flex-col items-center w-full">

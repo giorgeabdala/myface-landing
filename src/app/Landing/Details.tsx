@@ -28,7 +28,7 @@ export default function Details () {
 
                 
                 <div className="flex mt-20 justify-center">
-                    <Image src={"/foto2s.png"} alt={"foto de cílios antes e depois"}
+                    <Image src={"/foto2s.png"} alt={"mulher elegante com cílios perfeitos"}
                             width={1000} height={1000} />
 
                 </div>

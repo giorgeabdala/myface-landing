@@ -40,7 +40,7 @@ export default function Contacts() {
 
                             <h2 className="mt-4 text-base font-medium text-white">Endereço:</h2>
                             <p className="mt-2 text-sm text-rose-gold">Rua Rio Xingu, 625 sobrado 8</p>
-                            <p className="mt-2 text-sm text-rose-gold">Bairro Alto - Curitiba PR</p>
+                            <p className="mt-2 text-sm text-rose-gold">Bairro Alto - Curitiba Paraná</p>
 
                         </div>
 
@@ -54,7 +54,7 @@ export default function Contacts() {
                     </span>
 
                             <h2 className="mt-4 text-base font-medium text-white">Telefone</h2>
-                            <p className="mt-2 text-sm text-gray-400">Seg-Sab das 8am até 18pm.</p>
+                            <p className="mt-2 text-sm text-gray-400">Seg-Sab das 10am até 17:30pm.</p>
                             <p className="mt-2 text-sm text-rose-gold">(41) 99846-4496</p>
                         </div>
                     </div>

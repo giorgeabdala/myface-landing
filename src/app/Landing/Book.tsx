@@ -1,6 +1,5 @@
 'use client'
 
-import {Button, CloseButton, Group} from "@mantine/core";
 import Area from "@/app/components/Area";
 import Services from "@/app/components/Services";
 
