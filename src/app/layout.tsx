@@ -2,8 +2,8 @@ import './globals.css'
 import RootStyleRegistry from './emotion';
 
 
-  const title:String =  'MyFace Designer';
-  const description:String = 'Embelezando o olhar...';
+  const title: string =  'MyFace Designer';
+  const description: string = 'O amor em forma de extensão de cílios';
 
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -11,6 +11,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <html lang="pt-BR">
       <head >
         <title>{title}</title>
+        <meta name="description" content={description} />
 
       </head>
       <body>
