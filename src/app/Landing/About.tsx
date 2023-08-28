@@ -15,13 +15,11 @@ export default function About () {
                             MyFace
                        </span>
 
-                <h1 className="text-white font-title text-4xl -mt-2">
-                QUEM SOMOS
-                </h1>
-                    <div className="flex flex-col text-text-normal text-justify text-xl mt-4 leading-snug items-center w-full xl:w-3/4 gap-6">
-                            <p>O studio para criar uma imagem luxuosa. Aqui, a expertise no ramo garante que cada mulher seja única e deslumbrante! Trabalhamos com materiais de altíssima qualidade e  um novo padrão de beleza!</p>
 
-                            <p>Imagine acordar todas as manhãs com olhos radiantes, prontos para conquistar o mundo.  Realce a sua beleza natural, dando vida a cada piscar de olhos. Não deixe que os cílios curtos limitem a sua confiança e estilo.</p>
+                    <div className="flex flex-col text-text-normal text-justify text-xl mt-4 leading-snug items-center w-full xl:w-3/4 gap-6 mt-8">
+                            <p>O studio para criar uma imagem luxuosa. Aqui, a expertise no ramo garante que cada mulher seja única e deslumbrante! </p>
+
+                            <p>Imagine acordar todas as manhãs com olhos radiantes, prontos para conquistar o mundo.  Realce a sua beleza natural, dando vida a cada piscar de olhos. Não deixe que os cílios curtos ou ralos limitem a sua confiança e estilo.</p>
                     </div>
                 </div>
 

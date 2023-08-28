@@ -17,11 +17,11 @@ export default function Works() {
         <Area className="flex bg-container-gray  border-t border-zinc-300 ">
             <div className="flex flex-col gap-2 md: my-5 mb-20">
                 <div className="flex flex-col">
-                    <span className="text-7xl opacity-10 text-rose-gold font-menu lg:text-9xl">Olhar Marcante</span>
+                    <span className="text-8xl opacity-20 text-rose-gold-bold font-bold font-menu lg:text-9xl">Olhar Marcante</span>
                     <h1 className="text-white font-title text-lg ">DESCUBRA A BELEZA DO SEU OLHAR</h1>
                     <span className="text-text-normal text-xl text-justify my-4 items-center w-full ">
                         Revele a verdadeira expressão do seu olhar com as nossas extensões de cílios.
-                        Transformamos cílios curtos e raros em obras de arte deslumbrantes. Veja as fotos abaixo e se encante com a magia.
+                        Veja as fotos abaixo e se encante com a magia.
                     </span>
                 </div>
 

@@ -31,11 +31,11 @@ export default function Benefits () {
         },
         {
             title: "Cílios Que contam Histórias",
-            text: "Não importa o volume ou a quantidade dos seus cílios naturais, estou aqui para dar vida à história da sua beleza. Com as extensões, seus cílios ganham vida a cada piscar de olhos.."
+            text: "Não importa o volume ou a quantidade dos seus cílios naturais, estou aqui para dar vida à história da sua beleza. Com as extensões, seus cílios ganham vida a cada piscar de olhos."
         },
         {
             title: "O FATOR UAU",
-            text: "Sabe aquele impacto que você gosta de causar? Nossas extensões de cílios criam um efeito \"uau\" até nos cílios mais curtos e raros." +
+            text: "Sabe aquele impacto que você gosta de causar? Nossas extensões de cílios criam um efeito \"uau\" até nos cílios mais curtos e ralos." +
                 "  Desperte a curiosidade e conquiste a admiração de todos com um olhar realmente marcante."
         }
     ]
