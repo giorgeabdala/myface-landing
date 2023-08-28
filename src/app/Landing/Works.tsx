@@ -14,8 +14,8 @@ import work10 from "../../../public/works/work10.jpg";
 
 export default function Works() {
     return (
-        <Area className="flex bg-container-gray border-zinc-300">
-            <div className="flex flex-col gap-2 md: my-5">
+        <Area className="flex bg-container-gray  border-t border-zinc-300 ">
+            <div className="flex flex-col gap-2 md: my-5 mb-20">
                 <div className="flex flex-col">
                     <span className="text-7xl opacity-10 text-rose-gold font-menu lg:text-9xl">Olhar Marcante</span>
                     <h1 className="text-white font-title text-lg ">DESCUBRA A BELEZA DO SEU OLHAR</h1>

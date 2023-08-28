@@ -2,7 +2,7 @@
 
 interface CardProps {
     text: string
-    name: string
+    name?: string
 }
 
 export default function Card (props: CardProps) {
