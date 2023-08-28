@@ -33,8 +33,9 @@ export default function Testimonials() {
 
                     <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 text-justify justify-between">
                         <Card name={testimonials[0].name} text={testimonials[0].text} />
-                        <Card name={testimonials[1].name} text={testimonials[1].text}/>
                         <Card name={testimonials[2].name} text={testimonials[2].text}/>
+                        <Card name={testimonials[1].name} text={testimonials[1].text}/>
+
                     </div>
                 </div>
             </div>
