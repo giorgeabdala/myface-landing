@@ -1,5 +1,7 @@
 import Procedures from "@/app/components/Procedures";
-import ButtonPrimary from "@/app/components/ButtonPrimary";
+import ButtonDefault from "@/app/components/Button";
+import Link from "next/link";
+
 
 
 export default function Services() {
@@ -55,7 +57,9 @@ export default function Services() {
                     <Procedures name={services[5].name} price={services[5].price} description={services[5].description}/>
 
                     <div className="flex justify-center">
-                        <ButtonPrimary text={"Agende Agora!"} link={"https://pro.quaddro.co/myfacedesigner"} />
+                        <Link href={"https://pro.quaddro.co/myfacedesigner"}>
+                        <ButtonDefault text={"Agende Agora!"} />
+                        </Link>
                     </div>
                 </div>
             </div>

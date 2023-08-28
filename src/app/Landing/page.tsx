@@ -2,12 +2,12 @@ import Header from "@/app/Landing/Header";
 import Pagina from "@/app/components/Pagina";
 import Logo from "@/app/Landing/Logo";
 import About from "@/app/Landing/About";
-import Details from "@/app/Landing/Details";
 import Works from "@/app/Landing/Works";
 import Book from "@/app/Landing/Book";
 import Testimonials from "@/app/Landing/Testimonials";
 import Footer from "@/app/Landing/Footer";
 import Contacts from "@/app/Landing/Contacts";
+import Benefits from "@/app/Landing/Benefits";
 
 export default function Landing() {
     return (
@@ -15,8 +15,7 @@ export default function Landing() {
             <Header />
             <Logo  />
             <About />
-
-            <Details />
+            <Benefits />
             <Works />
             <Book />
             <Testimonials />
