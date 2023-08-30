@@ -8,15 +8,21 @@ export default function Services() {
 
     const services = [
         {
-            name: "Volume Camping",
-            price: "160,00",
-            description: "Crie um olhar cativante com nossa técnica Volume Camping. O dobro de cílios de um procedimento normal, garantindo um olhar marcante.",
+            name: "Volume Brasileiro",
+            price: "120,00",
+            description: "A sensualidade brasileira para seus olhos. Usando fios em formato de Y, proporciona mais curvatura e volume ao olhar.",
         },
         {
             name: "Volume Egípcio",
             price: "130,00",
             description: "Descubra o encanto do Volume Egípcio. Técnica que usa fios com mais volume, realçando sua beleza natural.",
         },
+        {
+            name: "Volume Capping",
+            price: "160,00",
+            description: "Crie um olhar cativante com nossa técnica Volume Camping. O dobro de cílios de um procedimento normal, garantindo um olhar marcante.",
+        },
+
         {
             name: "Mega Volume",
             price: "150,00",
@@ -30,18 +36,14 @@ export default function Services() {
         {
             name: "Volume Expert",
             price: "90,00",
-            description: "A técnica que não tem precisa de manutenção. Menos volume e acabamento discreto.",
+            description: "Menos volume e acabamento discreto. Não tem manutenção, ideal para quem quer experimentar o procedimento.",
         },
         {
             name: "Volume Híbrido",
             price: "120,00",
             description: "Experimente o Volume Híbrido e obtenha um olhar refinado. Junção de duas técnicas com mais volume e delicadeza.",
         },
-        {
-            name: "Volume Brasileiro",
-            price: "120,00",
-            description: "A sensualidade brasileira para seus olhos. Usando fios em formato de Y, proporciona mais curvatura e volume ao olhar.",
-        },
+
         {
             name: "Manutenção",
             price: "90,00",
