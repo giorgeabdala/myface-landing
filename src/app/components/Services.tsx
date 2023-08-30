@@ -23,6 +23,16 @@ export default function Services() {
             description: "Transforme seus cílios com o Mega Volume. A técnica mais volumosa, com maior durabilidade para um visual dramaticamente exuberante.",
         },
         {
+            name: "Volume Fio a Fio",
+            price: "110,00",
+            description: "Experimente o Volume Fio a Fio e obtenha um olhar refinado e espontâneo. A técnica mais natural possível.",
+        },
+        {
+            name: "Volume Expert",
+            price: "90,00",
+            description: "A técnica que não tem precisa de manutenção. Menos volume e acabamento discreto.",
+        },
+        {
             name: "Volume Híbrido",
             price: "120,00",
             description: "Experimente o Volume Híbrido e obtenha um olhar refinado. Junção de duas técnicas com mais volume e delicadeza.",
@@ -55,6 +65,8 @@ export default function Services() {
                     <Procedures name={services[3].name} price={services[3].price} description={services[3].description}/>
                     <Procedures name={services[4].name} price={services[4].price} description={services[4].description}/>
                     <Procedures name={services[5].name} price={services[5].price} description={services[5].description}/>
+                    <Procedures name={services[6].name} price={services[6].price} description={services[6].description}/>
+                    <Procedures name={services[7].name} price={services[7].price} description={services[7].description}/>
 
                     <div className="flex justify-center">
                         <Link href={"https://pro.quaddro.co/myfacedesigner"}>
