@@ -5,7 +5,7 @@ import {Metadata} from "next";
   const title: string =  'MyFace Designer';
   const description: string = 'O amor em forma de extensão de cílios';
   const url: string = 'http://myfacedesigner.com.br';
-  const logo: string = 'http://myfacedesigner.com.br/myface.png';
+  const logo: string = 'http://myfacedesigner.com.br/opengraph-image.png';
 
 export const metadata: Metadata = {
     metadataBase: new URL(url),
